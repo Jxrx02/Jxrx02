@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my own game**
 
-- 🌱 I’m currently learning **Unittesting and springboot**
+- 🌱 I’m currently learning **Unittesting and springboot and DRAW.io**
 
 - 💬 Ask me about **anything you need help with**
 
